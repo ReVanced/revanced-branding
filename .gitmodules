@@ -1,0 +1,3 @@
+[submodule "assets/revanced-typeface/manrope"]
+	path = assets/revanced-typeface/manrope
+	url = https://github.com/sharanda/manrope.git
