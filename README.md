@@ -59,21 +59,21 @@ The ReVanced logo is the most recognizeable asset which is why it is important t
 
 The ReVanced logo has a multiple gradients which define its character. The diamond has the gradient `#D21DAD` to `#F1FF00`, while the background has the gradient `#817E46` to `#6E0F5B`, both from top to bottom.
 
-The shapes and fills may appear in full black and white as well as in any shade in between. On a dark background, the dark variant with a light shade should be used and vice versa.
+The shapes and fills shall appear in full black and white as well as in any shade in between. On a dark background, the dark variant with a light shade shall be used and vice versa.
 
 ### 📏 Spacing
 
-The ReVanced logo may have at least a margin of 85% of its original size and if accompanied by a headline, the logo including the headline may have a margin in addition.
+The ReVanced logo shall have at least a margin of 85% of its original size and if accompanied by a headline, the logo including the headline shall have a margin in addition.
 
 ### ☝️ Headline
 
-The ReVanced logo may be accompanied with a headline of any typeface, preferably [Manrope](assets/revanced-typeface/manrope), starting with the [wordmark](assets/revanced-wordmark) on the right or below the logo only.
+The ReVanced logo shall be accompanied with a headline of any typeface, preferably [Manrope](assets/revanced-typeface/manrope), starting with the [wordmark](assets/revanced-wordmark) on the right or below the logo only.
 
-The headline may appear in full black and white as well in any shade in between. On a dark background, the dark variant with a light shade should be used and vice versa. The ReVanced logo may only be used in its entirety while accompanied with a headline.
+The headline may appear in full black and white as well in any shade in between. On a dark background, the dark variant with a light shade shall be used and vice versa. The ReVanced logo shall only be used in its entirety while accompanied with a headline.
 
 ### 🌐 Socials
 
-The ReVanced logo in its entirety may be used with any border radius of choice only.
+The ReVanced logo in its entirety shall be used with any border radius of choice only.
 
 ### ❌ Missuse
 
@@ -100,7 +100,7 @@ The ReVanced marks include, but are not limited to
 - The ReVanced logo
 - Anything that includes ReVanced in the name
 
-> **Note**: No letter except R and V in "ReVanced" may be capitalized.
+> **Note**: No letter except R and V in "ReVanced" shall be capitalized.
 
 ## 📜 ReVanced tagline
 
