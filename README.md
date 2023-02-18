@@ -55,9 +55,9 @@ The ReVanced logo is the most recognizeable asset which is why it is important t
 
 ## 🎨 Colors
 
-The ReVanced logo has a multiple gradients which define its character. The diamond has the gradient `#D21DAD` to `#F1FF00` from top to bottom, while the background has the gradient `#817E46` to `#6E0F5B` from top to bottom.
+The ReVanced logo has a multiple gradients which define its character. The diamond has the gradient `#D21DAD` to `#F1FF00`, while the background has the gradient `#817E46` to `#6E0F5B`, both from top to bottom.
 
-The shapes and fills may appear in full black and white as well in any shade in between. On a dark background, the dark variant with a light shade should be used and vice versa.
+The shapes and fills may appear in full black and white as well as in any shade in between. On a dark background, the dark variant with a light shade should be used and vice versa.
 
 ## 📏 Spacing
 
