@@ -11,7 +11,7 @@
   </picture>
   <br>
   <a href="https://revanced.app/">
-       <img height="24px" src="assets/revanced-logo/revanced-logo-round.svg" />
+       <img height="24px" src="assets/revanced-logo/revanced-logo.svg" />
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/revanced">
        <picture>
