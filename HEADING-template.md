@@ -32,7 +32,7 @@
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/93124920/270180600-7c1b38bf-889b-4d68-bd5e-b9d86f91421a.png">
          <img height="24px" src="https://user-images.githubusercontent.com/93124920/270108715-d80743fa-b330-4809-b1e6-79fbdc60d09c.png" />
-       <picture/>
+      </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.youtube.com/@ReVanced">
        <img height="24px" src="https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png" />
