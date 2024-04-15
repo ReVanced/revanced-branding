@@ -62,7 +62,8 @@
 
 This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
-> **Note**: Specifications are in their early stage of development and might heavily change a lot in their first revisions.
+> [!NOTE]
+> Specifications are in their early stage of development and might heavily change a lot in their first revisions.
 
 ## 🖼️ ReVanced logo
 
@@ -88,7 +89,7 @@ The ReVanced logo should have a minimum margin of 15% of its original size. If a
 
 The ReVanced logo should be accompanied by a headline of any typeface, preferably [Manrope](assets/revanced-typeface/manrope), starting with the [wordmark](assets/revanced-wordmark) on the right or below the logo only.
 
-The headline should appear in single shades of black and white. A light shade and vice versa should be used on a dark background. The ReVanced logo should only be used in its entirety with a headline.
+The headline should appear in single shades of black and white. A light shade and vice versa should be used on a dark background. The full ReVanced logo should be used with a headline.
 
 ### 🌐 Socials
 
@@ -119,7 +120,8 @@ The ReVanced marks include but are not limited to
 - The ReVanced logo
 - Anything that includes ReVanced in the name
 
-> **Note**: No letter except R and V in "ReVanced" should be capitalized.
+> [!IMPORTANT]
+> No letter except R and V in "ReVanced" should be capitalized.
 
 ## 📜 ReVanced tagline
 
@@ -128,4 +130,5 @@ The following taglines should be used whenever a slogan, summary, or short descr
 - "Continuing the legacy of Vanced"
 - "Continuing the legacy of Vanced at revanced.app"
 
-> **Note**: The tagline may end with punctuation when necessary.
+> [!NOTE]
+> The tagline may end with punctuation when necessary.
