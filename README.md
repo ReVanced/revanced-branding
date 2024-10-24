@@ -60,7 +60,7 @@
 
 # 🖌️ ReVanced brand guidelines
 
-This repository contains guidelines, kits and various other assets to help you use core brand elements of ReVanced.
+This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
 > **Note**: Specifications are in their early stage of development and might heavily change a lot in their first revisions.
 
@@ -68,7 +68,7 @@ This repository contains guidelines, kits and various other assets to help you u
 
 ### 🚩 The basics
 
-The ReVanced logo is the most recognizable asset which is why it is important to follow certain rules when used:
+The ReVanced logo is the most recognizable asset, which is why it is important to follow certain rules when used:
 
 - Do not alter, rotate, or modify the logo. Exceptions apply below
 - Do not animate the logo
@@ -76,23 +76,23 @@ The ReVanced logo is the most recognizable asset which is why it is important to
 
 ### 🎨 Colors
 
-The ReVanced logo has a triadic gradients which defines its character. The ring as well as the logo feature a top-to-bottom gradient blending the colors <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146503-fbc21584-94a5-436b-9277-3c64a72baf97.png"/> `#F04E98`, <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146541-fcb07e8d-9ba4-4292-b633-f64a01b80341.png"/> `#5F65D4`, and <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146582-18441902-b968-434c-bc40-f78bf975e86c.png"/> `#4E98F0`.
+The ReVanced logo has a triadic gradient that defines its character. The ring as well as the logo feature a top-to-bottom gradient blending the colors <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146503-fbc21584-94a5-436b-9277-3c64a72baf97.png"/> `#F04E98`, <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146541-fcb07e8d-9ba4-4292-b633-f64a01b80341.png"/> `#5F65D4`, and <img height="16px" src="https://github-production-user-asset-6210df.s3.amazonaws.com/47723802/243146582-18441902-b968-434c-bc40-f78bf975e86c.png"/> `#4E98F0` on the background color <img height="16px" src="https://github.com/user-attachments/assets/a270dcbb-c720-4bca-8c11-d39328a85e4a"/> `#1B1B1B`.
 
-The ReVanced logo should appear in single shades of black and white, but the diamond may appear in any color. On a dark background, a light shade and vice versa should be used.
+The ReVanced logo should appear in single shades of black and white, but the diamond may appear in any color. A light shade and vice versa should be used on a dark background.
 
 ### 📏 Spacing
 
-The ReVanced logo should have a minimum margin of 15% of its original size. If there is a headline accompanying the logo, the margin of the logo and headline together should be increased.
+The ReVanced logo should have a minimum margin of 15% of its original size. If a headline accompanies the logo, the margin of the logo and headline should be increased together.
 
 ### ☝️ Headline
 
-The ReVanced logo should be accompanied with a headline of any typeface, preferably [Manrope](assets/revanced-typeface/manrope), starting with the [wordmark](assets/revanced-wordmark) on the right or below the logo only.
+The ReVanced logo should be accompanied by a headline of any typeface, preferably [Manrope](assets/revanced-typeface/manrope), starting with the [wordmark](assets/revanced-wordmark) on the right or below the logo only.
 
-The headline should appear in single shades of black and white. On a dark background, a light shade and vice versa should be used. The ReVanced logo should only be used in its entirety while accompanied with a headline.
+The headline should appear in single shades of black and white. A light shade and vice versa should be used on a dark background. The ReVanced logo should only be used in its entirety with a headline.
 
 ### 🌐 Socials
 
-Any border radius may be used for the ReVanced logo.
+Any border-radius may be used for the ReVanced logo.
 
 ### ❌ Misuse
 
@@ -113,7 +113,7 @@ Todo.
 
 ## 🔤 ReVanced marks
 
-The ReVanced marks include, but are not limited to
+The ReVanced marks include but are not limited to
 
 - The ReVanced name
 - The ReVanced logo
