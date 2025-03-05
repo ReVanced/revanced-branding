@@ -107,7 +107,7 @@ Any border-radius may be used for the ReVanced logo.
 - Don't change color
 - Don't accompany the logo with a headline starting with anything other than the wordmark
 - Don't overemphasize the logo
-- Don't place the logo in an area or use variant in a way that hampered accessibility or have less than 3.5:1 contrast ratio
+- Don't place the logo in an area or use variant in a way that hampered accessibility or have less than 3.1:1 contrast ratio
 
 ### 🔨 Application
 
