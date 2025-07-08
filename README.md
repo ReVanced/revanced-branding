@@ -107,7 +107,7 @@ Any border-radius may be used for the ReVanced logo.
 - Don't change color
 - Don't accompany the logo with a headline starting with anything other than the wordmark
 - Don't overemphasize the logo
-- Don't place the logo in an area or use variant in an area with low constrast
+- Don't place the logo or a variant on a background with low contrast
 
 ### 🔨 Application
 
