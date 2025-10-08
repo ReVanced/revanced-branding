@@ -62,9 +62,6 @@
 
 This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
-> [!NOTE]
-> Specifications are in their early stage of development and might heavily change a lot in their first revisions.
-
 ## ©️ Copyrighted status
 
 The ReVanced project is open-source and distributed under the GNU General Public License (GPL), however the **ReVanced name, logo, and brand identity are copyrighted assets** and **not** covered by the GPL license.
@@ -118,10 +115,6 @@ Any border-radius may be used for the ReVanced logo.
 - Don't accompany the logo with a headline starting with anything other than the wordmark
 - Don't overemphasize the logo
 - Don't place the logo or a variant on a background with low contrast
-
-### 🔨 Application
-
-Todo.
 
 ## 🔤 ReVanced marks
 
