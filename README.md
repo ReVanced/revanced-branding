@@ -73,13 +73,13 @@ To use any part of the ReVanced brand, you must obtain explicit **written permis
 Permission to use ReVanced brand assets is granted via a GPG-signed certificate. This certificate may include the public key of the authorized entity, the asset covered, scope of use, and expiration date. To verify a brand permission certificate, refer to [this](https://github.com/ReVanced/revanced-documentation/blob/82259bc674e11541a94ef7d762d2b78b7dcd5c4e/docs/revanced-internals/trust.md#verifying-certificates).
 
 &nbsp;
-## 🔤 ReVanced marks
+## 🔤 ReVanced Identity
 
-The ReVanced marks include but are not limited to
+The ReVanced identity includes, but is not limited to:
 
-- The ReVanced name
 - The ReVanced logo
-- Anything that includes ReVanced in the name
+- The ReVanced name
+- Any name or phrase that contains “ReVanced”
 
 > [!IMPORTANT]
 > No letter except R and V in "ReVanced" should be capitalized.
