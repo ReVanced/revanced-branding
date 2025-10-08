@@ -58,10 +58,12 @@
    Continuing the legacy of Vanced
 </p>
 
+&nbsp;
 # 🖌️ ReVanced brand guidelines
 
 This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
+&nbsp;
 ## ©️ Copyright notice
 
 The ReVanced project is open-source and distributed under the GNU General Public License (GPL), however the **ReVanced name, logo, and brand identity are copyrighted assets** and **not** covered by the GPL license.
@@ -70,6 +72,7 @@ To use any part of the ReVanced brand, you must obtain explicit **written permis
 
 Permission to use ReVanced brand assets is granted via a GPG-signed certificate. This certificate may include the public key of the authorized entity, the asset covered, scope of use, and expiration date. To verify a brand permission certificate, refer to [this](https://github.com/ReVanced/revanced-documentation/blob/82259bc674e11541a94ef7d762d2b78b7dcd5c4e/docs/revanced-internals/trust.md#verifying-certificates).
 
+&nbsp;
 ## 🖼️ ReVanced logo
 
 ### 🚩 The basics
@@ -114,6 +117,7 @@ Any border-radius may be used for the ReVanced logo.
 - Don't overemphasize the logo
 - Don't place the logo or a variant on a background with low contrast
 
+&nbsp;
 ## 🔤 ReVanced marks
 
 The ReVanced marks include but are not limited to
@@ -125,6 +129,7 @@ The ReVanced marks include but are not limited to
 > [!IMPORTANT]
 > No letter except R and V in "ReVanced" should be capitalized.
 
+&nbsp;
 ## 📜 ReVanced tagline
 
 The following taglines should be used whenever a slogan, summary, or short description of ReVanced is required:
