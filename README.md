@@ -65,7 +65,7 @@ This repository contains guidelines, kits, and other assets to help you use ReVa
 > [!NOTE]
 > Specifications are in their early stage of development and might heavily change a lot in their first revisions.
 
-### ©️ Copyrighted status
+## ©️ Copyrighted status
 
 The ReVanced logo, brand name, and identity are copyrighted. These brand assets are not covered by the GPL software distribution license found in any ReVanced GitHub repositories.
 
