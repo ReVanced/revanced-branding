@@ -62,7 +62,7 @@
 
 This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
-## ©️ Copyrighted status
+## ©️ Copyright
 
 The ReVanced project is open-source and distributed under the GNU General Public License (GPL), however the **ReVanced name, logo, and brand identity are copyrighted assets** and **not** covered by the GPL license.
 
