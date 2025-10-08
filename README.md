@@ -62,14 +62,13 @@
 
 This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
-## ©️ Copyright
+## ©️ Copyright notice
 
+The ReVanced project is open-source and distributed under the GNU General Public License (GPL), however the **ReVanced name, logo, and brand identity are copyrighted assets** and **not** covered by the GPL license.
 
-Brand assets, such as, but not limited to, the name or logo, are copyrighted.
-If you wish to use them, you must obtain explicit consent from ReVanced at branding@revanced.app.
+To use any part of the ReVanced brand, you must obtain explicit **written permission** by contacting branding@revanced.app.
 
-Permission is granted in the form of a GPG-signed certificate, which can be provided alongside the used assets for verification. It may include information such as the public key of the authorized entity, the subject asset, the scope, and the expiration date of the permission.
-To verify the certificate, refer to [this](https://github.com/ReVanced/revanced-documentation/blob/82259bc674e11541a94ef7d762d2b78b7dcd5c4e/docs/revanced-internals/trust.md#verifying-certificates).
+Permission to use ReVanced brand assets is granted via a GPG-signed certificate. This certificate may include the public key of the authorized entity, the asset covered, scope of use, and expiration date. To verify the certificate, refer to [this](https://github.com/ReVanced/revanced-documentation/blob/82259bc674e11541a94ef7d762d2b78b7dcd5c4e/docs/revanced-internals/trust.md#verifying-certificates).
 
 ## 🖼️ ReVanced logo
 
