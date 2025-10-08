@@ -67,13 +67,13 @@ This repository contains guidelines, kits, and other assets to help you use ReVa
 
 ## ©️ Copyrighted status
 
-The ReVanced logo, brand name, and identity are copyrighted. These brand assets are not covered by the GPL software distribution license found in any ReVanced GitHub repositories.
+The ReVanced project is open-source and distributed under the GNU General Public License (GPL), however the **ReVanced name, logo, and brand identity are copyrighted assets** and **not** covered by the GPL license.
 
-The ReVanced logo, brand name, and identity may never be used in connection with:
+You may **not** use the ReVanced name, logo, or brand identity in connection with:
 
-- Downloadable software or applications
-- Websites or platforms that distribute downloadable software
-- Website domain names or subdomains
+- Downloadable software or applications, including modified or unmodified versions of the ReVanced project
+- Websites, platforms, or services that distribute or promote downloadable software
+- Domain names, subdomains, or social media handles
 
 ## 🖼️ ReVanced logo
 
