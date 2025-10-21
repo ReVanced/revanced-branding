@@ -111,7 +111,33 @@ Any border-radius may be used for the ReVanced logo.
 
 ### 🔨 Application
 
-Todo.
+The ReVanced logo offered by the official method should be use no matter which Operating System (OS) it is, 
+however certains exceptions like the sizing and positioning of the application which varies platform-to-platform, 
+then you may use your own OS-specific guidelines for positioning an application as long as the recognizability of 
+the distinct shape of the ReVanced logo (the entire V-shape) isn't hampered by the OS designs or other arbitrary changes.
+
+As for sizing, the V-shape should not be too small or too big compared to other application, you may "use" the official the grid 
+if exist to provide preliminary assessment, optical sizing can be use instead of precise grid and/or mathematical sizing to 
+provide equally consistent experience with the rest of the system.
+
+The logo should be visible with adequate constrast as possible with these filter:
+* Colored
+* Greyscale (If the OS supports customizable tinting and/or layered effect)
+* Monochrome (If the OS supports light tinting and/or monochromic effect)
+
+#### Extended features
+
+The concept of layering like _Adaptive icons in Android_ or _(2D/3D) Layer design in Apple_ should put  
+the foreground of the application icon the entire V-shape in the *first in order* then comes the color background 
+which uses the same color as the official background palette <img height="16px" src="https://github.com/user-attachments/assets/a270dcbb-c720-4bca-8c11-d39328a85e4a"/> `#1B1B1B`
+
+Monochromic or greyscale should use the exact sizing and positioning as the colored variant of the application icon,
+monochromic icon should be in one color either white or black (in this guidelines) or depending on OS requirements,
+greyscale should be in two shades of black with the V being black and the colored triangle being lighter shade of black
+
+In event of the icon being forced to adapt new changes then you may apply that change to the icon without approval
+if the OS changed the icon in upcoming change and the resulted icon is exceptionally bad. However you should have
+ample enough time to react so it's best to discuss with the branding team first.
 
 ## 🔤 ReVanced marks
 
