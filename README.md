@@ -117,13 +117,13 @@ then you may use your own OS-specific guidelines for positioning an application 
 the distinct shape of the ReVanced logo (the entire V-shape) isn't hampered by the OS designs or other arbitrary changes.
 
 As for sizing, the V-shape should not be too small or too big compared to other application, you may "use" the official the grid 
-if exist to provide preliminary assessment, optical sizing can be use instead of precise grid and/or mathematical sizing may be 
-use to provide equally consistent experience with the rest of the system.
+if exist to provide preliminary assessment, optical sizing can be use instead of precise grid and/or mathematical sizing to 
+provide equally consistent experience with the rest of the system.
 
 The logo should be visible with adequate constrast as possible with these filter:
 * Colored
-* Greyscale (If the OS supports customizable tinting of the icon and/or layered effect)
-* Monochrome (If the OS supports monochromic effect)
+* Greyscale (If the OS supports customizable tinting and/or layered effect)
+* Monochrome (If the OS supports light tinting and/or monochromic effect)
 
 #### Extended features
 
