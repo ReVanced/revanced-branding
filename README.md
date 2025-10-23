@@ -64,7 +64,7 @@ This repository contains guidelines, kits, and other assets to help you use ReVa
 
 ## ©️ Copyright notice
 
-ReVanced branding is copyrighted and not covered under GPL. To use ReVanced branding, you must obtain permission by contacting branding@revanced.app.
+ReVanced branding is copyrighted and not covered under the GPL. To use ReVanced branding, you must obtain permission by contacting branding@revanced.app.
 
 Permission to use the branding is granted via a GPG-signed certificate.
 This certificate may include the public key of the authorized entity, the assets covered, the scope of use, and the expiration date. To verify a brand permission certificate, refer to [this](https://github.com/ReVanced/revanced-documentation/blob/82259bc674e11541a94ef7d762d2b78b7dcd5c4e/docs/revanced-internals/trust.md#verifying-certificates).
