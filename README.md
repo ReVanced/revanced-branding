@@ -82,16 +82,6 @@ The ReVanced identity includes, but is not limited to:
 > [!IMPORTANT]
 > No letter except R and V in "ReVanced" should be capitalized.
 
-## 🔤 ReVanced tagline
-
-The following taglines should be used whenever a slogan, summary, or short description of ReVanced is required:
-
-- Continuing the legacy of Vanced
-- Continuing the legacy of Vanced at [revanced.app](https://revanced.app)
-
-> [!NOTE]
-> The tagline may end with punctuation when necessary.
-
 ## 🖼️ ReVanced logo
 
 ### 🚩 The basics
@@ -135,3 +125,13 @@ Any border-radius may be used for the ReVanced logo.
 - Don't accompany the logo with a headline starting with anything other than the wordmark
 - Don't overemphasize the logo
 - Don't place the logo or a variant on a background with low contrast
+
+## 🔤 ReVanced tagline
+
+The following taglines should be used whenever a slogan, summary, or short description of ReVanced is required:
+
+- Continuing the legacy of Vanced
+- Continuing the legacy of Vanced at [revanced.app](https://revanced.app)
+
+> [!NOTE]
+> The tagline may end with punctuation when necessary.
