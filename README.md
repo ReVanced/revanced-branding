@@ -62,8 +62,16 @@
 
 This repository contains guidelines, kits, and other assets to help you use ReVanced's core brand elements.
 
-> [!NOTE]
-> Specifications are in their early stage of development and might heavily change a lot in their first revisions.
+## ©️ Copyright notice
+
+ReVanced branding is copyrighted and not covered under the GPL. To use ReVanced branding, you must obtain permission by contacting branding@revanced.app.
+
+Permission to use the branding is granted via a GPG-signed certificate.
+This certificate may include the public key of the authorized entity, the assets covered, the scope of use, and the expiration date. To verify a brand permission certificate, refer to [this](https://github.com/ReVanced/revanced-documentation/blob/82259bc674e11541a94ef7d762d2b78b7dcd5c4e/docs/revanced-internals/trust.md#verifying-certificates).
+
+## 📜 ReVanced name
+
+The name is ReVanced. The letter 'R' and 'V' should be capitalized, if possible.
 
 ## 🖼️ ReVanced logo
 
@@ -109,27 +117,12 @@ Any border-radius may be used for the ReVanced logo.
 - Don't overemphasize the logo
 - Don't place the logo or a variant on a background with low contrast
 
-### 🔨 Application
-
-Todo.
-
-## 🔤 ReVanced marks
-
-The ReVanced marks include but are not limited to
-
-- The ReVanced name
-- The ReVanced logo
-- Anything that includes ReVanced in the name
-
-> [!IMPORTANT]
-> No letter except R and V in "ReVanced" should be capitalized.
-
-## 📜 ReVanced tagline
+## 🔤 ReVanced tagline
 
 The following taglines should be used whenever a slogan, summary, or short description of ReVanced is required:
 
-- "Continuing the legacy of Vanced"
-- "Continuing the legacy of Vanced at revanced.app"
+- Continuing the legacy of Vanced
+- Continuing the legacy of Vanced at [revanced.app](https://revanced.app)
 
 > [!NOTE]
 > The tagline may end with punctuation when necessary.
