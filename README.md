@@ -86,8 +86,8 @@ The ReVanced identity includes, but is not limited to:
 
 The following taglines should be used whenever a slogan, summary, or short description of ReVanced is required:
 
-- "Continuing the legacy of Vanced"
-- "Continuing the legacy of Vanced at revanced.app"
+- Continuing the legacy of Vanced
+- Continuing the legacy of Vanced at [revanced.app](https://revanced.app)
 
 > [!NOTE]
 > The tagline may end with punctuation when necessary.
