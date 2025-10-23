@@ -73,14 +73,7 @@ This certificate may include the public key of the authorized entity, the assets
 
 ## 📜 ReVanced name
 
-The ReVanced identity includes, but is not limited to:
-
-- The ReVanced logo
-- The ReVanced name
-- Any name or phrase that contains “ReVanced”
-
-> [!IMPORTANT]
-> No letter except R and V in "ReVanced" should be capitalized.
+The name is ReVanced. The letter 'R' and 'V' should be capitalized, if possible.
 
 ## 🖼️ ReVanced logo
 
