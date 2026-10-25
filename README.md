@@ -71,7 +71,7 @@ This certificate may include the public key of the authorized entity, the assets
 
 ## 📜 ReVanced name
 
-The name is ReVanced. The letter 'R' and 'V' should be capitalized, if possible.
+The name is ReVanced. The letters 'R' and 'V' should be capitalized, if possible.
 
 ## 🖼️ ReVanced logo
 
@@ -81,7 +81,7 @@ The ReVanced logo is the most recognizable asset, which is why it is important t
 
 - Do not alter, rotate, or modify the logo. Exceptions apply below
 - Do not animate the logo
-- Use the latest revision of the logo available at all time
+- Use the latest revision of the logo available at all times
 
 ### 🎨 Colors
 
